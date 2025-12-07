@@ -17,4 +17,7 @@ This is my repo for storing 3D printer files.
 
 ### Useful commands
 
+```gcode
 PROBE_CALIBRATE
+SAVE_CONFIG
+```
